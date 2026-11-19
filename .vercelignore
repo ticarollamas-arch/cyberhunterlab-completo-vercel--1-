@@ -1,0 +1,8 @@
+apps/api/tests
+apps/api/Dockerfile
+docker-compose.yml
+docs
+**/node_modules
+**/__pycache__
+**/.env
+apps/engenheiro-reverso/tmp
